@@ -56,6 +56,8 @@ This repository includes:
 
 ---
 
+
+
 ## 🛠️ Installation & Usage
 ```bash
 # Clone repository
@@ -71,6 +73,8 @@ pip install -r requirements.txt
 
 # Run Jupyter Notebook
 jupyter notebook water-quality-classifier.ipynb
+'''
+
 🔗 Connect
 📬 Author: Pushkar Arora, Satyam Choudhary
 - [Pushkar's Github](https://github.com/pushkar1887)
