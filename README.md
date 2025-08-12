@@ -71,6 +71,7 @@ pip install -r requirements.txt
 
 # Run Jupyter Notebook
 jupyter notebook water-quality-classifier.ipynb
- Connect
+🔗 Connect
 📬 Author: Pushkar Arora
-🔗 LinkedIn | Kaggle | GitHub
+- [LinkedIn](https://www.linkedin.com/in/pushkar-arora-0b3599356/)
+- [Kaggle](https://www.kaggle.com/code/pushkararora/water-quality-classifier)
