@@ -73,7 +73,7 @@ pip install -r requirements.txt
 
 # Run Jupyter Notebook
 jupyter notebook water-quality-classifier.ipynb
-'''
+```
 
 🔗 Connect
 📬 Author: Pushkar Arora, Satyam Choudhary
