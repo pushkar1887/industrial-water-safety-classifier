@@ -45,7 +45,6 @@ This repository includes:
 | Danger  | 0.98      | 0.98   | 0.98     |
 
 ✅ **Test Accuracy:** ~99.88%  
-✅ Only **4 misclassifications** in the entire dataset
 
 ---
 
@@ -72,3 +71,6 @@ pip install -r requirements.txt
 
 # Run Jupyter Notebook
 jupyter notebook water-quality-classifier.ipynb
+ Connect
+📬 Author: Pushkar Arora
+🔗 LinkedIn | Kaggle | GitHub
